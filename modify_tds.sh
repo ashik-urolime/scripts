@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script for modifying task definion files
 
 env=$1
 source_dir="/tmp/taskdefinitions/us-west-2/"
